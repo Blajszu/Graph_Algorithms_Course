@@ -78,7 +78,7 @@ każdy lord posiada co najmniej *2* forty.
 
 Rozważmy następujący układ miejsc i fortów lordów:
 
-![](Info/Projekt%201_%20Kr%C3%B3lewski%20Trakt%20_%20algograf_pliki/example.png)
+![example](https://github.com/user-attachments/assets/77542ba2-536d-4553-bd2c-7339370bae70)
 
 Drogi Króleskiego Traktu są pogrubione. Mamy 6 lordów:
 
