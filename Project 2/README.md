@@ -79,13 +79,13 @@ powodu własnego błędu - grając poprawnie zawsze jest w stanie wygrać
 niezależnie od akcji przeciwnika, zatem funkcja *solve* powinna zwrócić
 *True*.
 
-![](Info/Projekt%202_%20Turniej%20szochowy%20_%20algograf_pliki/test12.png)
+![](https://github.com/user-attachments/assets/4cd8a6c5-4b4c-46e4-8224-d0e6d21cbf15)
 
 ### Przykłady[](#przykłady)
 
 Rozważmy następujący stan początkowy (test *15*).
 
-![](Info/Projekt%202_%20Turniej%20szochowy%20_%20algograf_pliki/test15.png)
+![](https://github.com/user-attachments/assets/772c006a-0fe8-4cd8-b899-3fe5889490ee)
 
 W tej sytuacji również wygrywa gracz rozpoczynający - niezależnie od
 tego, czy ruszy króla w lewo, czy w prawo, pozostałe ruchy są wymuszone
@@ -95,7 +95,7 @@ ich *6*, zatem gracz pierwszy wykona ostatni dozwolony ruch, np.
 
 Spójrzmy na jeszcze jeden przykład (test *14*).
 
-![](Info/Projekt%202_%20Turniej%20szochowy%20_%20algograf_pliki/test14.png)
+![](https://github.com/user-attachments/assets/250c2a64-e68b-4d67-8e8d-399483784ba4)
 
 W tej sytuacji wygraną zawsze jest w stanie osiągnąć drugi gracz. Po
 każdym z dwóch możliwych pierwszych ruchów, tj. przesunięciu na *(2, 1)*
