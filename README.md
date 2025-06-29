@@ -11,8 +11,8 @@ This repository contains implementations of graph algorithms from the *Graph Alg
 | [Lab 3 & 4: Edge Connectivity](Lab%203&4)             | Edge connectivity concepts and the Stoer-Wagner algorithm                  |
 | [Lab 5 & 6: Chordal Graphs](Lab%205&6)                | Recognition of chordal graphs and LexBFS-based algorithms                  |
 | [Lab 7: Advanced Topics](Lab%207)                     | NetworkX library, planarity testing, maximum flows, and SAT-2CNF problems  |
-| [Project 1: Royal Route](Projekt%201)                 | Finding the maximal independent set in a chordal graph                     |
-| [Project 2: (Almost) Chess Tournament](Projekt%202)   | Graph-based game problem and maximal matching                              |
+| [Project 1: Royal Route](Project%201)                 | Finding the maximal independent set in a chordal graph                     |
+| [Project 2: (Almost) Chess Tournament](Project%202)   | Graph-based game problem and maximal matching                              |
 
 ## Requirements  
 
